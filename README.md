@@ -1,4 +1,4 @@
-#Features
+# Features
 
 Real-Time Dashboard: Displays total donations vs. goal with a Bootstrap progress bar.
 
