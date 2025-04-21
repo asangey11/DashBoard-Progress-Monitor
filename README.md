@@ -26,3 +26,11 @@ Database: SQLite (default) / SQL Server Express
 Frontend: Razor Views, Bootstrap, plain JavaScript (Fetch API)
 
 Tools: Visual Studio (or VS Code), .NET CLI, SQLite viewer
+
+# Prerequisites
+
+.NET 7 SDK
+
+SQLite CLI or Viewer (optional for inspecting the DB)
+
+IDE: Visual Studio 2022 (17.10+) or Visual Studio Code
