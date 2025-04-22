@@ -1,5 +1,13 @@
 # DASHBOARD PROGRESS MONITOR
 
+## Table of Contents
+
+1. Features
+
+2. Tech Stack
+
+3. Prerequisites
+
 
 ## Features
 
